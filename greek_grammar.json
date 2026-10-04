@@ -1,0 +1,87 @@
+{
+  "language": "Greek",
+  "code": "el",
+  "total_examples": 10,
+  "grammar": [
+    {
+      "id": 1,
+      "rule": "Definite Article - Masculine Singular",
+      "explanation": "The definite article for masculine singular nouns",
+      "greek": "ο άνδρας",
+      "english": "the man",
+      "translation": "The article 'ο' is used before masculine singular nouns"
+    },
+    {
+      "id": 2,
+      "rule": "Definite Article - Feminine Singular",
+      "explanation": "The definite article for feminine singular nouns",
+      "greek": "η γυναίκα",
+      "english": "the woman",
+      "translation": "The article 'η' is used before feminine singular nouns"
+    },
+    {
+      "id": 3,
+      "rule": "Definite Article - Neuter Singular",
+      "explanation": "The definite article for neuter singular nouns",
+      "greek": "το παιδί",
+      "english": "the child",
+      "translation": "The article 'το' is used before neuter singular nouns"
+    },
+    {
+      "id": 4,
+      "rule": "Adjective Agreement - Masculine",
+      "explanation": "Adjectives agree with masculine nouns in gender and number",
+      "greek": "ο καλός άνδρας",
+      "english": "the good man",
+      "translation": "The adjective 'καλός' must match the masculine gender of 'άνδρας'"
+    },
+    {
+      "id": 5,
+      "rule": "Adjective Agreement - Feminine",
+      "explanation": "Adjectives agree with feminine nouns in gender and number",
+      "greek": "η καλή γυναίκα",
+      "english": "the good woman",
+      "translation": "The adjective changes to 'καλή' to match the feminine gender"
+    },
+    {
+      "id": 6,
+      "rule": "Adjective Agreement - Neuter",
+      "explanation": "Adjectives agree with neuter nouns in gender and number",
+      "greek": "το καλό παιδί",
+      "english": "the good child",
+      "translation": "The adjective changes to 'καλό' to match the neuter gender"
+    },
+    {
+      "id": 7,
+      "rule": "Present Tense Verb Conjugation - First Person",
+      "explanation": "Present tense regular verb in first person singular",
+      "greek": "Εγώ λύω",
+      "english": "I solve",
+      "translation": "Regular verb ending in -ω for first person singular"
+    },
+    {
+      "id": 8,
+      "rule": "Present Tense Verb Conjugation - Third Person",
+      "explanation": "Present tense regular verb in third person singular",
+      "greek": "Αυτός λύει",
+      "english": "He solves",
+      "translation": "The verb changes to -ει for third person singular"
+    },
+    {
+      "id": 9,
+      "rule": "Genitive Case - Possession",
+      "explanation": "Genitive case shows possession or relationship",
+      "greek": "το βιβλίο του άνδρα",
+      "english": "the man's book",
+      "translation": "Genitive case 'του' indicates possession"
+    },
+    {
+      "id": 10,
+      "rule": "Accusative Case - Direct Object",
+      "explanation": "Accusative case marks the direct object of a verb",
+      "greek": "Βλέπω τον άνδρα",
+      "english": "I see the man",
+      "translation": "Accusative case 'τον' marks the direct object"
+    }
+  ]
+}
