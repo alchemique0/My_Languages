@@ -1,0 +1,77 @@
+{
+  "technology": "JavaScript",
+  "version": "ES6+",
+  "total_skills": 10,
+  "skills": [
+    {
+      "id": 1,
+      "skill": "Variables and Data Types",
+      "description": "Understanding var, let, const and primitive types",
+      "difficulty": "Beginner",
+      "example": "const name = 'John'; let age = 30; var isActive = true;"
+    },
+    {
+      "id": 2,
+      "skill": "Functions",
+      "description": "Arrow functions, function declarations, and function expressions",
+      "difficulty": "Beginner",
+      "example": "const add = (a, b) => a + b; function multiply(x, y) { return x * y; }"
+    },
+    {
+      "id": 3,
+      "skill": "Array Methods",
+      "description": "map, filter, reduce, forEach, find, and other array operations",
+      "difficulty": "Intermediate",
+      "example": "const numbers = [1, 2, 3]; const doubled = numbers.map(n => n * 2);"
+    },
+    {
+      "id": 4,
+      "skill": "Objects and Destructuring",
+      "description": "Object creation, manipulation, and destructuring syntax",
+      "difficulty": "Intermediate",
+      "example": "const { name, age } = { name: 'John', age: 30 };"
+    },
+    {
+      "id": 5,
+      "skill": "Promises and Async/Await",
+      "description": "Handling asynchronous operations with Promises and async/await",
+      "difficulty": "Intermediate",
+      "example": "async function fetchData() { const response = await fetch('/api/data'); }"
+    },
+    {
+      "id": 6,
+      "skill": "Classes and Prototypes",
+      "description": "Object-oriented programming with classes and prototype inheritance",
+      "difficulty": "Intermediate",
+      "example": "class User { constructor(name) { this.name = name; } }"
+    },
+    {
+      "id": 7,
+      "skill": "DOM Manipulation",
+      "description": "Selecting, modifying, and interacting with HTML elements",
+      "difficulty": "Beginner",
+      "example": "document.getElementById('id').innerHTML = 'Hello'; document.addEventListener('click', handler);"
+    },
+    {
+      "id": 8,
+      "skill": "Event Handling",
+      "description": "Managing user interactions and browser events",
+      "difficulty": "Beginner",
+      "example": "element.addEventListener('click', (e) => { console.log(e.target); });"
+    },
+    {
+      "id": 9,
+      "skill": "Template Literals",
+      "description": "String interpolation and multi-line strings with backticks",
+      "difficulty": "Beginner",
+      "example": "const message = `Hello, ${name}!`; const multiline = `Line 1\\nLine 2`;"
+    },
+    {
+      "id": 10,
+      "skill": "Spread and Rest Operators",
+      "description": "Using ... for spreading arrays/objects and collecting function arguments",
+      "difficulty": "Intermediate",
+      "example": "const arr = [...array1, ...array2]; function sum(...numbers) { }"
+    }
+  ]
+}
