@@ -1,0 +1,254 @@
+{
+  "language": "Chinese",
+  "code": "zh",
+  "variants": {
+    "mandarin": "普通话 (Pǔtōnghuà)",
+    "simplified_characters": "简体字",
+    "traditional_characters": "繁體字"
+  },
+  "vocabulary": {
+    "greetings": [
+      {
+        "simplified": "你好",
+        "traditional": "你好",
+        "pinyin": "Nǐ hǎo",
+        "english": "Hello",
+        "example": "你好！很高兴认识你。"
+      },
+      {
+        "simplified": "早上好",
+        "traditional": "早上好",
+        "pinyin": "Zǎoshang hǎo",
+        "english": "Good morning",
+        "example": "早上好！"
+      },
+      {
+        "simplified": "晚上好",
+        "traditional": "晚上好",
+        "pinyin": "Wǎnshang hǎo",
+        "english": "Good evening",
+        "example": "晚上好。"
+      },
+      {
+        "simplified": "再见",
+        "traditional": "再見",
+        "pinyin": "Zàijiàn",
+        "english": "Goodbye",
+        "example": "再见！"
+      }
+    ],
+    "common_phrases": [
+      {
+        "simplified": "谢谢",
+        "traditional": "謝謝",
+        "pinyin": "Xièxie",
+        "english": "Thank you",
+        "example": "谢谢你的帮助。"
+      },
+      {
+        "simplified": "请",
+        "traditional": "請",
+        "pinyin": "Qǐng",
+        "english": "Please",
+        "example": "请坐。"
+      },
+      {
+        "simplified": "是的",
+        "traditional": "是的",
+        "pinyin": "Shì de",
+        "english": "Yes",
+        "example": "是的，我同意。"
+      },
+      {
+        "simplified": "不是",
+        "traditional": "不是",
+        "pinyin": "Búshì",
+        "english": "No",
+        "example": "不是，我不同意。"
+      },
+      {
+        "simplified": "对不起",
+        "traditional": "對不起",
+        "pinyin": "Duìbúqǐ",
+        "english": "Sorry",
+        "example": "对不起，我迟到了。"
+      }
+    ],
+    "basic_words": [
+      {
+        "simplified": "男人",
+        "traditional": "男人",
+        "pinyin": "Nánrén",
+        "english": "Man",
+        "part_of_speech": "noun"
+      },
+      {
+        "simplified": "女人",
+        "traditional": "女人",
+        "pinyin": "Nǚrén",
+        "english": "Woman",
+        "part_of_speech": "noun"
+      },
+      {
+        "simplified": "孩子",
+        "traditional": "孩子",
+        "pinyin": "Háizi",
+        "english": "Child",
+        "part_of_speech": "noun"
+      },
+      {
+        "simplified": "水",
+        "traditional": "水",
+        "pinyin": "Shuǐ",
+        "english": "Water",
+        "part_of_speech": "noun"
+      },
+      {
+        "simplified": "面包",
+        "traditional": "麵包",
+        "pinyin": "Miànbāo",
+        "english": "Bread",
+        "part_of_speech": "noun"
+      },
+      {
+        "simplified": "米饭",
+        "traditional": "米飯",
+        "pinyin": "Mǐfàn",
+        "english": "Rice",
+        "part_of_speech": "noun"
+      },
+      {
+        "simplified": "茶",
+        "traditional": "茶",
+        "pinyin": "Chá",
+        "english": "Tea",
+        "part_of_speech": "noun"
+      }
+    ],
+    "numbers": [
+      {
+        "simplified": "一",
+        "traditional": "一",
+        "pinyin": "Yī",
+        "english": "One",
+        "number": 1
+      },
+      {
+        "simplified": "二",
+        "traditional": "二",
+        "pinyin": "Èr",
+        "english": "Two",
+        "number": 2
+      },
+      {
+        "simplified": "三",
+        "traditional": "三",
+        "pinyin": "Sān",
+        "english": "Three",
+        "number": 3
+      },
+      {
+        "simplified": "十",
+        "traditional": "十",
+        "pinyin": "Shí",
+        "english": "Ten",
+        "number": 10
+      },
+      {
+        "simplified": "百",
+        "traditional": "百",
+        "pinyin": "Bǎi",
+        "english": "Hundred",
+        "number": 100
+      }
+    ]
+  },
+  "grammar": {
+    "sentence_structure": {
+      "basic_order": "SVO (Subject-Verb-Object)",
+      "example_subject": "我",
+      "example_verb": "吃",
+      "example_object": "米饭",
+      "full_sentence": "我吃米饭。(I eat rice.)"
+    },
+    "particles": {
+      "ma": {
+        "character": "吗",
+        "function": "Questions - adds question form at end of sentence",
+        "example": "你好吗？(How are you?)"
+      },
+      "de": {
+        "character": "的",
+        "function": "Possession - 'of' or possessive marker",
+        "example": "我的书 (my book)"
+      },
+      "le": {
+        "character": "了",
+        "function": "Aspect - indicates completed action",
+        "example": "我吃了米饭。(I ate rice.)"
+      },
+      "ba": {
+        "character": "吧",
+        "function": "Suggestion or rhetorical question",
+        "example": "我们去吧。(Let's go.)"
+      }
+    },
+    "subject_pronouns": {
+      "first_person_singular": "我 (wǒ) - I",
+      "second_person_singular": "你 (nǐ) - you",
+      "third_person_singular": "他/她/它 (tā) - he/she/it",
+      "first_person_plural": "我们 (wǒmen) - we",
+      "second_person_plural": "你们 (nǐmen) - you all",
+      "third_person_plural": "他们/她们/它们 (tāmen) - they"
+    },
+    "verb_forms": {
+      "note": "Chinese verbs don't conjugate by person or tense",
+      "tense_marking": "Tense is marked by time words or particles",
+      "present": "吃 (chī) - eat/eats",
+      "past_with_particle": "吃了 (chīle) - ate",
+      "future": "会吃 (huì chī) - will eat",
+      "continuous": "在吃 (zài chī) - is eating"
+    },
+    "measure_words": {
+      "description": "Classifiers used between numbers and nouns",
+      "examples": [
+        {
+          "classifier": "个",
+          "pinyin": "gè",
+          "for": "general/people items",
+          "example": "一个人 (one person)"
+        },
+        {
+          "classifier": "本",
+          "pinyin": "běn",
+          "for": "books",
+          "example": "一本书 (one book)"
+        },
+        {
+          "classifier": "只",
+          "pinyin": "zhī",
+          "for": "animals",
+          "example": "一只猫 (one cat)"
+        }
+      ]
+    },
+    "adjectives": {
+      "description": "Adjectives function like verbs and can stand alone as predicates",
+      "example_positive": "这个苹果很好。(This apple is good.)",
+      "example_negative": "这个梨很酸。(This pear is sour.)"
+    },
+    "word_order_for_questions": {
+      "yes_no_questions": "Add 吗 (ma) at the end",
+      "example": "你去了吗？(Did you go?)",
+      "question_words": "Place at beginning of sentence",
+      "question_words_list": {
+        "谁": "shéi - who",
+        "什么": "shénme - what",
+        "哪里": "nǎlǐ - where",
+        "什么时候": "shénme shíhou - when",
+        "为什么": "wèishéme - why",
+        "怎么": "zěnme - how"
+      }
+    }
+  }
+}
