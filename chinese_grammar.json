@@ -1,0 +1,107 @@
+{
+  "language": "Chinese",
+  "code": "zh",
+  "total_examples": 10,
+  "grammar": [
+    {
+      "id": 1,
+      "rule": "Basic SVO Sentence Structure",
+      "explanation": "Chinese follows Subject-Verb-Object word order",
+      "simplified": "我吃米饭。",
+      "traditional": "我吃米飯。",
+      "pinyin": "Wǒ chī mǐfàn.",
+      "english": "I eat rice.",
+      "translation": "Subject (我) - Verb (吃) - Object (米饭)"
+    },
+    {
+      "id": 2,
+      "rule": "Question Particle 吗 (ma)",
+      "explanation": "Add 吗 at the end to turn a statement into a yes/no question",
+      "simplified": "你好吗？",
+      "traditional": "你好嗎？",
+      "pinyin": "Nǐ hǎo ma?",
+      "english": "How are you?",
+      "translation": "The particle 吗 converts the sentence into a question"
+    },
+    {
+      "id": 3,
+      "rule": "Possessive Particle 的 (de)",
+      "explanation": "The particle 的 shows possession or attribution",
+      "simplified": "我的水",
+      "traditional": "我的水",
+      "pinyin": "Wǒ de shuǐ",
+      "english": "My water",
+      "translation": "的 is used to show possession between subject and object"
+    },
+    {
+      "id": 4,
+      "rule": "Aspect Particle 了 (le) - Completed Action",
+      "explanation": "The particle 了 indicates a completed action in the past",
+      "simplified": "我吃了米饭。",
+      "traditional": "我吃了米飯。",
+      "pinyin": "Wǒ chīle mǐfàn.",
+      "english": "I have eaten rice.",
+      "translation": "了 marks the action as completed"
+    },
+    {
+      "id": 5,
+      "rule": "Measure Words - 个 (ge)",
+      "explanation": "Measure words are required between numbers and nouns",
+      "simplified": "一个男人",
+      "traditional": "一個男人",
+      "pinyin": "Yī ge nánrén",
+      "english": "One man",
+      "translation": "个 is a general measure word used before the noun"
+    },
+    {
+      "id": 6,
+      "rule": "Adjective Predicate",
+      "explanation": "Adjectives can function as predicates without a copula",
+      "simplified": "这个苹果很好。",
+      "traditional": "這個蘋果很好。",
+      "pinyin": "Zhège píngguǒ hěn hǎo.",
+      "english": "This apple is very good.",
+      "translation": "好 (good) acts as the predicate without 'is'"
+    },
+    {
+      "id": 7,
+      "rule": "Negation with 不 (bu)",
+      "explanation": "The adverb 不 negates actions and adjectives",
+      "simplified": "我不吃。",
+      "traditional": "我不吃。",
+      "pinyin": "Wǒ búchī.",
+      "english": "I don't eat.",
+      "translation": "不 is placed before the verb to negate"
+    },
+    {
+      "id": 8,
+      "rule": "Question Word 什么 (shenme)",
+      "explanation": "Question words are placed at the end or in the position of the unknown element",
+      "simplified": "你吃什么？",
+      "traditional": "你吃什麼？",
+      "pinyin": "Nǐ chī shénme?",
+      "english": "What do you eat?",
+      "translation": "什么 (what) is placed in object position"
+    },
+    {
+      "id": 9,
+      "rule": "Future Tense with 会 (hui)",
+      "explanation": "The auxiliary verb 会 indicates future action or possibility",
+      "simplified": "他会吃米饭。",
+      "traditional": "他會吃米飯。",
+      "pinyin": "Tā huì chī mǐfàn.",
+      "english": "He will eat rice.",
+      "translation": "会 placed before the main verb indicates future tense"
+    },
+    {
+      "id": 10,
+      "rule": "Subject Pronoun Plurality",
+      "explanation": "Plural pronouns are formed by adding 们 (men)",
+      "simplified": "我们是好朋友。",
+      "traditional": "我們是好朋友。",
+      "pinyin": "Wǒmen shì hǎo péngyou.",
+      "english": "We are good friends.",
+      "translation": "们 changes 我 (I) to 我们 (we)"
+    }
+  ]
+}
