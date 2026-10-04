@@ -1,0 +1,77 @@
+{
+  "technology": "Nuxt.js",
+  "version": "3.x",
+  "total_skills": 10,
+  "skills": [
+    {
+      "id": 1,
+      "skill": "Project Setup and Structure",
+      "description": "Creating a Nuxt.js project and understanding directory structure",
+      "difficulty": "Beginner",
+      "example": "npx create-nuxt-app myapp; // Project structure: pages/, components/, layouts/, plugins/"
+    },
+    {
+      "id": 2,
+      "skill": "Pages and Routing",
+      "description": "File-based routing system in Nuxt.js with dynamic routes",
+      "difficulty": "Beginner",
+      "example": "// pages/index.vue, pages/users/[id].vue creates automatic routes"
+    },
+    {
+      "id": 3,
+      "skill": "Layouts",
+      "description": "Creating custom layouts for different pages",
+      "difficulty": "Beginner",
+      "example": "// layouts/default.vue, layouts/admin.vue; definePageMeta({ layout: 'admin' })"
+    },
+    {
+      "id": 4,
+      "skill": "Components",
+      "description": "Creating and using reusable Vue components in Nuxt",
+      "difficulty": "Beginner",
+      "example": "// components/Header.vue is auto-imported; <Header /> in templates"
+    },
+    {
+      "id": 5,
+      "skill": "Composables",
+      "description": "Creating and using composable functions for logic reuse",
+      "difficulty": "Intermediate",
+      "example": "export const useCounter = () => { const count = ref(0); return { count } }; const { count } = useCounter();"
+    },
+    {
+      "id": 6,
+      "skill": "Server Routes and API",
+      "description": "Creating backend API endpoints with server/api directory",
+      "difficulty": "Intermediate",
+      "example": "// server/api/users.ts exports default defineEventHandler(() => { return { users: [] }; })"
+    },
+    {
+      "id": 7,
+      "skill": "Middleware",
+      "description": "Creating route middleware for authentication and guards",
+      "difficulty": "Intermediate",
+      "example": "// middleware/auth.ts defineRouteMiddleware((to, from) => { if (!isAuthenticated) return navigateTo('/login'); })"
+    },
+    {
+      "id": 8,
+      "skill": "State Management with Pinia",
+      "description": "Managing global state using Pinia store",
+      "difficulty": "Intermediate",
+      "example": "export const useUserStore = defineStore('user', { state: () => ({ user: null }), actions: { setUser(u) {} } })"
+    },
+    {
+      "id": 9,
+      "skill": "Nuxt Data Fetching",
+      "description": "Using useFetch, useAsyncData, and $fetch for data retrieval",
+      "difficulty": "Intermediate",
+      "example": "const { data: users } = await useFetch('/api/users'); const data = await $fetch('/api/data');"
+    },
+    {
+      "id": 10,
+      "skill": "Deployment and Build",
+      "description": "Building and deploying Nuxt.js applications to production",
+      "difficulty": "Intermediate",
+      "example": "npm run build; npm run generate; // Deploy to Vercel, Netlify, or Node.js server"
+    }
+  ]
+}
