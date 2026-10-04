@@ -1,0 +1,77 @@
+{
+  "language": "Greek",
+  "code": "el",
+  "total_words": 10,
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "Καλημέρα",
+      "pronunciation": "Kaliméra",
+      "english": "Good morning",
+      "part_of_speech": "phrase"
+    },
+    {
+      "id": 2,
+      "word": "Ευχαριστώ",
+      "pronunciation": "Efharisto",
+      "english": "Thank you",
+      "part_of_speech": "verb"
+    },
+    {
+      "id": 3,
+      "word": "Παρακαλώ",
+      "pronunciation": "Parakaló",
+      "english": "Please",
+      "part_of_speech": "verb"
+    },
+    {
+      "id": 4,
+      "word": "Νερό",
+      "pronunciation": "Nero",
+      "english": "Water",
+      "part_of_speech": "noun"
+    },
+    {
+      "id": 5,
+      "word": "Ψωμί",
+      "pronunciation": "Psomi",
+      "english": "Bread",
+      "part_of_speech": "noun"
+    },
+    {
+      "id": 6,
+      "word": "Άνδρας",
+      "pronunciation": "Andras",
+      "english": "Man",
+      "part_of_speech": "noun"
+    },
+    {
+      "id": 7,
+      "word": "Γυναίκα",
+      "pronunciation": "Yinaika",
+      "english": "Woman",
+      "part_of_speech": "noun"
+    },
+    {
+      "id": 8,
+      "word": "Παιδί",
+      "pronunciation": "Pedi",
+      "english": "Child",
+      "part_of_speech": "noun"
+    },
+    {
+      "id": 9,
+      "word": "Καλός",
+      "pronunciation": "Kalos",
+      "english": "Good",
+      "part_of_speech": "adjective"
+    },
+    {
+      "id": 10,
+      "word": "Κακός",
+      "pronunciation": "Kakos",
+      "english": "Bad",
+      "part_of_speech": "adjective"
+    }
+  ]
+}
