@@ -1,0 +1,87 @@
+{
+  "language": "Chinese",
+  "code": "zh",
+  "total_words": 10,
+  "vocabulary": [
+    {
+      "id": 1,
+      "simplified": "你好",
+      "traditional": "你好",
+      "pinyin": "Nǐ hǎo",
+      "english": "Hello",
+      "part_of_speech": "phrase"
+    },
+    {
+      "id": 2,
+      "simplified": "谢谢",
+      "traditional": "謝謝",
+      "pinyin": "Xièxie",
+      "english": "Thank you",
+      "part_of_speech": "verb"
+    },
+    {
+      "id": 3,
+      "simplified": "请",
+      "traditional": "請",
+      "pinyin": "Qǐng",
+      "english": "Please",
+      "part_of_speech": "verb"
+    },
+    {
+      "id": 4,
+      "simplified": "水",
+      "traditional": "水",
+      "pinyin": "Shuǐ",
+      "english": "Water",
+      "part_of_speech": "noun"
+    },
+    {
+      "id": 5,
+      "simplified": "米饭",
+      "traditional": "米飯",
+      "pinyin": "Mǐfàn",
+      "english": "Rice",
+      "part_of_speech": "noun"
+    },
+    {
+      "id": 6,
+      "simplified": "男人",
+      "traditional": "男人",
+      "pinyin": "Nánrén",
+      "english": "Man",
+      "part_of_speech": "noun"
+    },
+    {
+      "id": 7,
+      "simplified": "女人",
+      "traditional": "女人",
+      "pinyin": "Nǚrén",
+      "english": "Woman",
+      "part_of_speech": "noun"
+    },
+    {
+      "id": 8,
+      "simplified": "孩子",
+      "traditional": "孩子",
+      "pinyin": "Háizi",
+      "english": "Child",
+      "part_of_speech": "noun"
+    },
+    {
+      "id": 9,
+      "simplified": "好",
+      "traditional": "好",
+      "pinyin": "Hǎo",
+      "english": "Good",
+      "part_of_speech": "adjective"
+    },
+    {
+      "id": 10,
+      "simplified": "坏",
+      "traditional": "壞",
+      "pinyin": "Huài",
+      "english": "Bad",
+      "part_of_speech": "adjective"
+    }
+  ]
+}
