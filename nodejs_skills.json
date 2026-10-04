@@ -1,0 +1,77 @@
+{
+  "technology": "Node.js",
+  "version": "Latest LTS",
+  "total_skills": 10,
+  "skills": [
+    {
+      "id": 1,
+      "skill": "Module System",
+      "description": "Understanding CommonJS (require/exports) and ES6 modules (import/export)",
+      "difficulty": "Beginner",
+      "example": "const express = require('express'); module.exports = app; // or import express from 'express';"
+    },
+    {
+      "id": 2,
+      "skill": "File System Operations",
+      "description": "Reading, writing, and manipulating files using fs module",
+      "difficulty": "Beginner",
+      "example": "const fs = require('fs'); fs.readFile('file.txt', (err, data) => { console.log(data); });"
+    },
+    {
+      "id": 3,
+      "skill": "HTTP Server Creation",
+      "description": "Creating HTTP servers with Node.js http module or frameworks",
+      "difficulty": "Beginner",
+      "example": "const http = require('http'); http.createServer((req, res) => { res.write('Hello'); }).listen(3000);"
+    },
+    {
+      "id": 4,
+      "skill": "Express Framework Basics",
+      "description": "Setting up routes, middleware, and handling requests with Express",
+      "difficulty": "Intermediate",
+      "example": "app.get('/api/users', (req, res) => { res.json({ users: [] }); });"
+    },
+    {
+      "id": 5,
+      "skill": "Middleware",
+      "description": "Creating and using middleware functions in Express applications",
+      "difficulty": "Intermediate",
+      "example": "app.use((req, res, next) => { console.log('Request received'); next(); });"
+    },
+    {
+      "id": 6,
+      "skill": "Database Connections",
+      "description": "Connecting to databases like MongoDB, PostgreSQL, MySQL using drivers/ORMs",
+      "difficulty": "Intermediate",
+      "example": "const mongoose = require('mongoose'); mongoose.connect('mongodb://localhost/myapp');"
+    },
+    {
+      "id": 7,
+      "skill": "Environment Variables",
+      "description": "Managing configuration using .env files and process.env",
+      "difficulty": "Beginner",
+      "example": "require('dotenv').config(); const port = process.env.PORT || 3000;"
+    },
+    {
+      "id": 8,
+      "skill": "Error Handling",
+      "description": "Implementing try-catch, error middleware, and proper error management",
+      "difficulty": "Intermediate",
+      "example": "try { /* code */ } catch (err) { res.status(500).json({ error: err.message }); }"
+    },
+    {
+      "id": 9,
+      "skill": "Asynchronous Programming",
+      "description": "Working with callbacks, Promises, and async/await in Node.js",
+      "difficulty": "Intermediate",
+      "example": "async function getData() { const data = await fetchFromAPI(); return data; }"
+    },
+    {
+      "id": 10,
+      "skill": "npm and Package Management",
+      "description": "Installing, managing, and publishing packages with npm or yarn",
+      "difficulty": "Beginner",
+      "example": "npm install express; npm install --save-dev nodemon; npm run start;"
+    }
+  ]
+}
